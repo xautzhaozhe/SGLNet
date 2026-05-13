@@ -1,6 +1,6 @@
 This code is for our paper **"Spectral-Constrained Global and Local Feature Learning for Hyperspectral Anomaly Detection"**
 
-The paper link is **https://doi.org/10.1109/IGARSS55030.2025.11242636**
+The paper link is **https://doi.org/10.1016/j.ipm.2025.104313**
 
 ~~~
 @article{zhao2026spectral,
